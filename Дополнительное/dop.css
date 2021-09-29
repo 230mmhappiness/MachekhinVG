@@ -1,0 +1,19 @@
+del {
+	color: red;
+	text-decoration: line-through;
+}
+del span {
+	color: red;
+}
+
+.otstup {
+    padding-left: 25px;
+}
+
+.shrift {
+    font-size: 13px;
+}
+
+.size {
+    font-size: 50px; 
+}
