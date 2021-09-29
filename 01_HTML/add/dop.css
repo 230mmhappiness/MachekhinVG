@@ -1,9 +1,9 @@
-del {
-	color: red;
-	text-decoration: line-through;
+.first{
+    color:red
 }
-del span {
-	color: red;
+
+.colortext{
+    color:blue
 }
 
 .otstup {
@@ -15,5 +15,5 @@ del span {
 }
 
 .size {
-    font-size: 50px; 
+    font-size: 40px; 
 }
