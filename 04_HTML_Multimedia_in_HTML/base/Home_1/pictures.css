@@ -5,10 +5,12 @@
 .left{
     margin: 0px left;
 }
-.center1{
-    float: middle;
-}
+figure {
+    text-align: center;
+    margin-top: -25px;
+  }
+
 .right{
     float: right;
-    margin-top: 0px;
+    margin-top: -43px;
 }
