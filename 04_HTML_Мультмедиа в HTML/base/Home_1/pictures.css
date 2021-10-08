@@ -2,6 +2,13 @@
     float: right;
     margin-top: 0px;
 }
+.left{
+    margin: 0px left;
+}
 .center1{
-    margin: 0 auto;
+    float: middle;
+}
+.right{
+    float: right;
+    margin-top: 0px;
 }
